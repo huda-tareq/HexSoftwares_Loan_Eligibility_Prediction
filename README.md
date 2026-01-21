@@ -103,9 +103,7 @@ Scikit-learn
 
 Streamlit
 
-✅ Conclusion
 
-This project demonstrates an end-to-end Machine Learning pipeline, from data preprocessing and model training to deployment using Streamlit. It highlights practical skills in data science, model deployment, and building user-friendly ML applications.
 
 ## 📈 Results
 The models were evaluated using accuracy score, and the performance was compared to select the best model for loan approval prediction.
