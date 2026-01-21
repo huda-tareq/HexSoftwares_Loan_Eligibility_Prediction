@@ -55,15 +55,67 @@ The dataset is obtained from Kaggle and contains information about loan applican
 - Naive Bayes
 
 ---
+🚀 Streamlit Web Application
+
+This project includes an interactive Streamlit web application that allows users to enter applicant details and instantly predict loan eligibility using the trained machine learning model.
+
+🔧 Features
+
+Simple and user-friendly web interface
+
+Real-time loan approval prediction
+
+Uses the same preprocessing steps applied during training
+
+Ensures consistency between training and deployment
+
+
+📝 User Inputs in the App
+
+The Streamlit application collects the following inputs:
+
+Gender
+
+Marital Status
+
+Number of Dependents
+
+Education Level
+
+Employment Status
+
+Applicant Income
+
+Loan Amount
+
+Credit History
+
+Based on these inputs, the model predicts whether the loan will be Approved or Not Approved.
+
+
+🛠️ Technologies Used
+
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Streamlit
+
+✅ Conclusion
+
+This project demonstrates an end-to-end Machine Learning pipeline, from data preprocessing and model training to deployment using Streamlit. It highlights practical skills in data science, model deployment, and building user-friendly ML applications.
 
 ## 📈 Results
 The models were evaluated using accuracy score, and the performance was compared to select the best model for loan approval prediction.
 
 ---
 
-📌 Conclusion
+✅ Conclusion
 
-This project provides hands-on experience with a real-world classification problem and highlights the importance of data preprocessing and feature selection in machine learning.
+This project demonstrates an end-to-end Machine Learning pipeline, from data preprocessing and model training to deployment using Streamlit. It highlights practical skills in data science, model deployment, and building user-friendly ML applications.
+
 
 
 ```bash
